@@ -138,6 +138,7 @@ Thumbs.db
 desktop.ini 
 
 .env
+booking_system_backend/.venv
 
 ### Additional files
 HR_database/.venv/
